@@ -1,0 +1,33 @@
+#titlename{
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.one{
+    background-color: orange;
+    color: white;
+    text-align: center ;
+    
+}
+#favFoodImage1{
+    border: 10px solid white;
+    
+}
+.two{
+    background-color: violet;
+    color: white;
+    text-align: center ;
+}
+#favFoodImage2{
+    border: 10px solid white;
+}
+.three{
+    background-color: indigo;
+    color: white;
+    text-align: center ;
+}
+#favFoodImage3{
+    border: 10px solid white;
+}
