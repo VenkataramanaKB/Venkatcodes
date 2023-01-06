@@ -1,0 +1,23 @@
+.hometext{
+    text-align:center;
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%, -50%);
+}
+.home{
+    text-align: center;
+    background-color:rgb(168,168,168);
+}
+.page1{
+    text-align: center;
+    background-color:rgb(168,168,168) ;
+}
+.page2{
+    text-align: center;
+    background-color:rgb(168,168,168) ;
+}
+.page3{
+    text-align: center;
+    background-color:rgb(168,168,168) ;
+}

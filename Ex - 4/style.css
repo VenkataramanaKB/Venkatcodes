@@ -1,0 +1,32 @@
+.home{
+    
+    background-image:url("https://cdn.pixabay.com/photo/2018/01/12/14/24/night-3078326_1280.jpg");
+    background-size: 100%, 100%;
+    background-repeat:no-repeat ;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.TEXT{
+    text-align: center;
+    color:white;
+    position: static;
+    font-family:Garamond;
+    font-size: 10px;
+   
+ 
+    
+}
+#textBox1{
+    height: 50px;
+    background-color: rgb(150, 222, 209);
+}
+#textBox2{
+    height: 50px;
+    background-color: rgb(150, 222, 209);
+}
+#textBox7{
+    height: 50px;
+    background-color: rgb(150, 222, 209);
+}
