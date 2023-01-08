@@ -1,0 +1,35 @@
+.home{
+    text-align: center;
+    background-color:peachpuff;
+    background-size: auto;
+}
+#page1{
+    text-align: center;
+    background-color:peachpuff;
+    background-size: auto;
+}
+#page2{
+    text-align: center;
+    background-color:peachpuff;
+    background-size: auto;
+}
+#form1{
+    border: 1px solid black;
+}
+table, th, td{
+   margin-left:auto;
+   margin-right: auto;
+   border: 1px solid black;
+   border-collapse:collapse;
+   width: 45%;
+}
+
+.list-1{
+    list-style-position: inside;
+}
+#page3{
+    text-align: center;
+    background-color:peachpuff;
+    background-size: auto;
+    position: absolute;
+}
